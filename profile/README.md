@@ -19,11 +19,11 @@
 ---
 
 <div align="center">
-  <a href="#-关于我们-about-us">关于我们</a> •
-  <a href="#-我们的活动-what-we-do">我们的活动</a> •
-  <a href="#-精选项目-featured-projects">精选项目</a> •
-  <a href="#-如何加入我们-how-to-join-us">如何加入</a> •
-  <a href="#-行为准则-code-of-conduct">行为准则</a>
+  <a href="#关于我们-about-us">关于我们</a> •
+  <a href="#我们的活动-what-we-do">我们的活动</a> •
+  <a href="#精选项目-featured-projects">精选项目</a> •
+  <a href="#如何加入我们-how-to-join-us">如何加入</a> •
+  <a href="#行为准则-code-of-conduct">行为准则</a>
 </div>
 
 ---

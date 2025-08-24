@@ -1,4 +1,4 @@
-# 贡献者契约行为准则
+# WHU OSI＆LUG行为准则
 
 ## 我们的承诺
 
@@ -9,17 +9,12 @@
 ## 我们的标准
 
 有助于我们社区营造积极氛围的行为示例包括：
-
 * 对他人的同理心和善意
 * 尊重不同的意见、观点和经历
 * 提供并坦然接受建设性反馈
-* 承担责任，向受我们错误影响的人道歉，
-并从中吸取教训
-* 不仅关注我们个人的最佳利益，也关注整个社区的最佳利益
-
+  
 不可接受的行为示例包括：
-
-* 其他在专业环境中可能被合理视为不当的行为
+* 在专业环境中可能被合理视为不当的行为
 
 ## 执行责任
 
@@ -27,15 +22,15 @@
 
 社区领导者有权利和责任删除、编辑或拒绝不符合本行为准则的评论、提交、代码、问题和其他贡献，并将在适当的情况下告知审核决定的理由。
 
-## 范围
+## 适用范围
 
 本行为准则适用于所有社区场合，也适用于个人在公共场所正式代表社区的情况。
 包括但不限于：
-社区线上平台（如 GitHub 组织下的项目、QQ/微信交流群、邮件列表、论坛等）
+社区线上平台（如 GitHub 组织下的项目、QQ/微信交流群等）
 社区主办的线下活动（如技术分享会、工作坊、沙龙、聚餐等）
 在公共场合代表社区时的行为（如代表社区在会议发言、在社交媒体上使用官方账号等）
 
-## 执行
+## 举报与处理
 
 如有辱骂、骚扰或其他不可接受的行为，请向负责执行的社区领导者报告，邮箱地址为
 quank123wip@outlook.com
@@ -71,14 +66,16 @@ quank123wip@outlook.com
 
 **后果**：永久禁止在社区内进行任何形式的公开互动。
 
-## 归因
+## 署名
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.1, available at
 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+
 Community Impact Guidelines were inspired by
 [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
 ## 附则
-本行为准则最终解释权归武汉大学开源社区 & Linux 用户组管理团队所有。管理团队承诺以公平和透明的方式执行本准则
+本行为准则最终解释权归WHU OSI＆LUG管理团队所有，管理团队承诺以公平和透明的方式执行本准则。
 
 [Mozilla CoC]: https://github.com/mozilla/diversity
+[homepage]: https://www.contributor-covenant.org
